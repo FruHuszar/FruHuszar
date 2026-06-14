@@ -8,7 +8,7 @@
 <tr>
 <td style="border: 1px solid #C8A2C8; border-radius: 12px; padding: 8px;">
 <h4>Studying</h4>
-<p>Software development and testing, with a portfolio at <a href="https://fruhuszar.github.io/PortfolioWeb/">fruhuszar.github.io/PortfolioWeb</a></p>
+<p>Software development and testing, with a portfolio at <a href="https://fruhuszar.github.io/Portfolio/">fruhuszar.github.io/PortfolioWeb</a></p>
 <br>
 </td>
 <td style="border: 1px solid #C8A2C8; border-radius: 12px; padding: 8px;">
