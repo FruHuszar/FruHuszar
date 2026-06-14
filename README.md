@@ -36,7 +36,7 @@
 
 ### Everything i touched on
 
-<details open>
+<details>
   <summary><strong>Frontend & Backend</strong></summary>
   <br>
 
@@ -51,7 +51,7 @@
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-3B4252?style=flat&logo=sqlite&logoColor=B48EAD)
 </details>
 
-<details open>
+<details>
   <summary><strong>3D, Design & Creative Tools</strong></summary>
   <br>
 
@@ -62,7 +62,7 @@
 ![Substance Painter Badge](https://img.shields.io/badge/-Substance%20Painter-3B4252?style=flat&logo=adobesubstance3dpainter&logoColor=D08770)
 </details>
 
-<details open>
+<details>
   <summary><strong>Programming</strong></summary>
   <br>
 
@@ -71,7 +71,7 @@
 ![GDScript Badge](https://img.shields.io/badge/-GDScript-3B4252?style=flat&logo=godotengine&logoColor=478CBF)
 </details>
 
-<details open>
+<details>
   <summary><strong>Dev Tools</strong></summary>
   <br>
 
