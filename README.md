@@ -1,99 +1,94 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=C8A2C8&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Tester+Student;Frontend+%26+Creative+3D+Designer;Mobile-First+%26+Accessibility+Focused;Building+JS-Based+Games" alt="Typing SVG" />
+<div align="center">
+
+<a href="https://fruhuszar.github.io/PortfolioWeb/">
+  <img src="https://placehold.co/1200x400/151515/444444?text=//Readme.md" alt="Hero Banner" width="100%">
+</a>
+
+<br>
+<br>
+
+<p>
+  <kbd>&nbsp; <a href="https://fruhuszar.github.io/Portfolio/" style="text-decoration:none; color:inherit;">PORTFOLIO</a> &nbsp;</kbd> &nbsp;|&nbsp;
+  <kbd>&nbsp; <a href="https://www.youtube.com/channel/UCQfo3W5YZlZNmxFdCJ9kpng" style="text-decoration:none; color:inherit;">Youtube</a> &nbsp;</kbd> &nbsp;|&nbsp;
+  <kbd>&nbsp; <a href="mailto:fruzsinaanna.huszar@gmail.com?subject=Project%20Inquiry%20-%20GitHub" style="text-decoration:none; color:inherit;">EMAIL</a> &nbsp;</kbd>
 </p>
 
----
-
-<table style="width:100%; border-collapse: separate; border-spacing: 8px;">
-<tr>
-<td style="border: 1px solid #C8A2C8; border-radius: 12px; padding: 8px;">
-<h4>Studying</h4>
-<p>Software development and testing, with a portfolio at <a href="https://fruhuszar.github.io/Portfolio/">fruhuszar.github.io/PortfolioWeb</a></p>
+<details open>
+<summary><h3><kbd> WHO_AM_I </kbd></h3></summary>
 <br>
-</td>
-<td style="border: 1px solid #C8A2C8; border-radius: 12px; padding: 8px;">
-<h4>At</h4>
-<p>Budapest, Hungary</p>
-<br>
-</td>
-</tr>
-<tr>
-<td style="border: 1px solid #C8A2C8; border-radius: 12px; padding: 8px;">
-<h4>Creativity</h4>
-<p>3D design and animation, mainly in Blender and Marvelous Designer</p>
-<br>
-</td>
-<td style="border: 1px solid #C8A2C8; border-radius: 12px; padding: 8px;">
-<h4>Building</h4>
-<p>JS-based games, including nm.js and other 2D projects</p>
-<br>
-</td>
-</tr>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="60%" valign="top"><br>
+      <p>I am a software development student and aspiring 3D artist based in Budapest, Hungary.
+      <br>I take a special interest in creating detailed models and integrating them into the websites I build.
+      <br>Beyond the visuals: I enjoy the structural side, from mapping out systems with UML to implementing the backend code.</p>
+      <blockquote>
+        <i>"The function of good software is to make the complex appear simple."</i>
+      </blockquote><br>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img src="https://placehold.co/400x210/151515/555555?text=//img" alt="Profile Visual" width="95%" style="border-radius: 10px;">
+    </td>
+  </tr>
 </table>
 
----
-
-### Everything i touched on
-
-<details>
-  <summary><strong>Frontend & Backend</strong></summary>
-  <br>
-
-![React Badge](https://img.shields.io/badge/-React-3B4252?style=flat&logo=react&logoColor=BF616A)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-3B4252?style=flat&logo=javascript&logoColor=EBCB8B)
-![HTML Badge](https://img.shields.io/badge/-HTML-3B4252?style=flat&logo=html5&logoColor=D08770)
-![CSS Badge](https://img.shields.io/badge/-CSS-3B4252?style=flat&logo=css3&logoColor=81A1C1)
-![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-3B4252?style=flat&logo=tailwindcss&logoColor=88C0D0)
-![PHP Badge](https://img.shields.io/badge/-PHP-3B4252?style=flat&logo=php&logoColor=8FBCBB)
-![SQL Badge](https://img.shields.io/badge/-SQL-3B4252?style=flat&logo=mysql&logoColor=88C0D0)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-3B4252?style=flat&logo=node.js&logoColor=A3BE8C)
-![SQLite Badge](https://img.shields.io/badge/-SQLite-3B4252?style=flat&logo=sqlite&logoColor=B48EAD)
 </details>
 
-<details>
-  <summary><strong>3D, Design & Creative Tools</strong></summary>
-  <br>
+<details open>
+<summary><h3><kbd> SELECTED_PROJECTS </kbd></h3></summary>
+<br>
 
-![Blender Badge](https://img.shields.io/badge/-Blender-3B4252?style=flat&logo=blender&logoColor=F5792A)
-![Marvelous Designer Badge](https://img.shields.io/badge/-Marvelous%20Designer-3B4252?style=flat&logo=marvelousdesigner&logoColor=88C0D0)
-![Photoshop Badge](https://img.shields.io/badge/-Photoshop-3B4252?style=flat&logo=adobephotoshop&logoColor=8FBCBB)
-![After Effects Badge](https://img.shields.io/badge/-After%20Effects-3B4252?style=flat&logo=adobeaftereffects&logoColor=BF616A)
-![Substance Painter Badge](https://img.shields.io/badge/-Substance%20Painter-3B4252?style=flat&logo=adobesubstance3dpainter&logoColor=D08770)
-</details>
-
-<details>
-  <summary><strong>Programming</strong></summary>
-  <br>
-
-![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
-![Java Badge](https://img.shields.io/badge/-Java-3B4252?style=flat&logo=openjdk&logoColor=D08770)
-![GDScript Badge](https://img.shields.io/badge/-GDScript-3B4252?style=flat&logo=godotengine&logoColor=478CBF)
-</details>
-
-<details>
-  <summary><strong>Dev Tools</strong></summary>
-  <br>
-
-![Git Badge](https://img.shields.io/badge/-Git-3B4252?style=flat&logo=git&logoColor=5E81AC)
-![GitHub Badge](https://img.shields.io/badge/-GitHub-3B4252?style=flat&logo=github&logoColor=8FBCBB)
-![Cypress Badge](https://img.shields.io/badge/-Cypress-3B4252?style=flat&logo=cypress&logoColor=88C0D0)
-</details>
-
----
-
-<details>
-  <summary><strong>Currently Working On</strong></summary>
-  <br>
-
-> **Dream Team Dashboard** – Gamified self-development tracker (Node.js, Express, SQLite)
->
-> **Pearl Sort** – Hyper-casual Android puzzle game (Godot 4, GDScript)
->
-> **Prism 091** – Rainbow-hunting color checklist app
->
-> **nm.js** – JS-based musical game project, simple browser game
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>Sleeping Beauty Budapest</h4>
+      <p><sub>Official website for the Sleeping Beauty salon - <a href="sleepingbeauty.hu">visit site</a>
+      <br><br>
+  <img src="https://img.shields.io/badge/-React-3B4252?style=for-the-badge&logo=react&logoColor=BF616A" alt="React"></sub></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>Dream Team Dashboard</h4>
+      <p><sub>Gamified self-development tracker - <a href="https://github.com/FruHuszar/OnfejlesztoWebalkalmazas">github repo</a>
+      <br><br>
+  <img src="https://img.shields.io/badge/-Node.js-3B4252?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"></sub></p>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h4>Pearl Sort</h4>
+      <p><sub>Color-matching Android puzzle game, coming soon.
+      <br><br>
+  <img src="https://img.shields.io/badge/-Godot-3B4252?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot"></sub></p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
----
+<br>
+
+<details open>
+<summary><h3><kbd> EVERYTHING_I_TOUCHED_ON </kbd></h3></summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-3B4252?style=for-the-badge&logo=react&logoColor=BF616A" alt="React">
+  <img src="https://img.shields.io/badge/-Tailwind-3B4252?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind">
+  <img src="https://img.shields.io/badge/-JavaScript-3B4252?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/-Java-3B4252?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/-SQL-3B4252?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL">
+  <img src="https://img.shields.io/badge/-PHP-3B4252?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/-Python-3B4252?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/-HTML/CSS-3B4252?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML/CSS">
+  <img src="https://img.shields.io/badge/-Godot-3B4252?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot">
+  <img src="https://img.shields.io/badge/-Blender-3B4252?style=for-the-badge&logo=blender&logoColor=F5792A" alt="Blender">
+  <img src="https://img.shields.io/badge/-MarvelousDesigner-3B4252?style=for-the-badge&logo=marvelousdesigner&logoColor=88C0D0" alt="Marvelous Designer">
+  <img src="https://img.shields.io/badge/-Photoshop-3B4252?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="PS">
+  <img src="https://img.shields.io/badge/-AfterEffects-3B4252?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="AE">
+  <img src="https://img.shields.io/badge/-SubstancePainter-3B4252?style=for-the-badge&logo=adobesubstancepainter&logoColor=FFFFFF" alt="Substance">
+</p>
+
+</details>
+
+<br>
+<p align="center"><sub>// Fruzsina Anna Huszar //</sub></p>
+
+</div>
