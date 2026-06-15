@@ -42,7 +42,7 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <h4>Sleeping Beauty Budapest</h4>
-      <p><sub>Official website for the beauty salon - <a href="sleepingbeauty.hu">visit site</a>
+      <p><sub>Official website for a local beauty salon - <a href="sleepingbeauty.hu">visit site</a>
       <br><br>
   <img src="https://img.shields.io/badge/-React-3B4252?style=for-the-badge&logo=react&logoColor=BF616A" alt="React"></sub></p>
     </td>
