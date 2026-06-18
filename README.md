@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://fruhuszar.github.io/PortfolioWeb/">
-  <img src="https://placehold.co/1200x400/151515/444444?text=//Readme.md" alt="Hero Banner" width="100%">
+  <img src="images/banner.jpg" alt="Hero Banner" width="100%">
 </a>
 
 <br>
