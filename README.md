@@ -23,7 +23,7 @@
       </blockquote><br>
     </td>
     <td width="40%" align="right" valign="top">
-      <img src="https://placehold.co/400x210/151515/555555?text=//img" alt="Profile Visual" width="95%" style="border-radius: 10px;">
+      <img src="images/side.jpg" alt="Profile Visual" width="95%" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
