@@ -7,11 +7,7 @@
 <br>
 <br>
 
-<p>
-  <kbd>&nbsp; <a href="https://fruhuszar.github.io/Portfolio/" style="text-decoration:none; color:inherit;">PORTFOLIO</a> &nbsp;</kbd> &nbsp;|&nbsp;
-  <kbd>&nbsp; <a href="https://www.youtube.com/channel/UCQfo3W5YZlZNmxFdCJ9kpng" style="text-decoration:none; color:inherit;">Youtube</a> &nbsp;</kbd> &nbsp;|&nbsp;
-  <kbd>&nbsp; <a href="mailto:fruzsinaanna.huszar@gmail.com?subject=Project%20Inquiry%20-%20GitHub" style="text-decoration:none; color:inherit;">EMAIL</a> &nbsp;</kbd>
-</p>
+[Portfolio](https://fruhuszar.github.io/Portfolio/) | [Youtube](https://www.youtube.com/channel/UCQfo3W5YZlZNmxFdCJ9kpng) | [Email](mailto:fruzsinaanna.huszar@gmail.com?subject=Project%20Inquiry%20-%20GitHub)
 
 <details open>
 <summary><h3><kbd> WHO_AM_I </kbd></h3></summary>
